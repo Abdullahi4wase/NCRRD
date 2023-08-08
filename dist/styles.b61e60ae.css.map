@@ -1,0 +1,1 @@
+{"version":3,"sources":["css/styles.css"],"names":[],"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA;AACA;AACA","file":"styles.b61e60ae.css","sourceRoot":"..","sourcesContent":[":root {\r\n  --color-primary: #2485ff;\r\n  --color-secondary: #00d9ff;\r\n  --color-accent: #ff3400;\r\n  --color-headings: #1b0760;\r\n  --color-body: #918ca4;\r\n}\r\n"]}
